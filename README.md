@@ -15,7 +15,7 @@ Criei o **"Francaverso"** - um ecossistema completo de ferramentas proprietária
 Minha abordagem combina visão estratégica com execução prática: desde arquitetar infraestrutura em Docker até desenvolver interfaces em Next.js. Acredito que tecnologia deve resolver problemas reais de negócio, não apenas existir por existir.
 
 - 🎯 **Foco atual:** Desenvolvimento de aplicações full stack escaláveis e automações com IA
-- 📚 **Formação:** Análise e Desenvolvimento de Sistemas - Estácio
+- 📚 **Formação:** Análise e Desenvolvimento de Sistemas
 - 🌱 **Aprendendo:** Sempre em busca de evoluir tecnicamente e construir soluções com impacto real
 - 💡 **Especialidades:** Liderança técnica, desenvolvimento ágil, automações, infraestrutura
 
